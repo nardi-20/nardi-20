@@ -4,6 +4,7 @@ I'm Nardi, and I’m studying Computer Science. I have six years' coding experie
 
 I'm currently working on expanding my understanding of complex coding theories and learning more languages. Take a look around! 
 
+
 ## Skills 
 
 Below are some of the languages that are a part of my primary skillset. 
@@ -24,6 +25,7 @@ C++
 
 Java
 
+
 ## Code 
 
 I’ve included repositories from the code I’ve worked on during my time in college.   
@@ -31,6 +33,7 @@ I’ve included repositories from the code I’ve worked on during my time in co
 CMSC 140 (C++) 
 
 CMSC 203 (Java) 
+
 
 ## How to reach me
 Linkedin: www.linkedin.com/in/nardos-hailemariam
