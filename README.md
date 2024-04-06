@@ -8,8 +8,9 @@ I'm currently working on expanding my understanding of complex coding theories a
 ## Skills 
 
 Below are some of the languages that are a part of my primary skillset. 
+
  
-  HTML | CSS | JavaScript | Python | SQL | DAX | C++ | Java
+  HTML  |  CSS |  JavaScript  |  Python  |  SQL  |  DAX  |  C++  |  Java
 
 
 ## Code 
