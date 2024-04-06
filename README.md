@@ -9,21 +9,21 @@ I'm currently working on expanding my understanding of complex coding theories a
 
 Below are some of the languages that are a part of my primary skillset. 
  
-HTML
+  HTML
 
-CSS
+  CSS
 
-JavaScript
+  JavaScript
 
-Python
+  Python
+ 
+  SQL
 
-SQL
+  DAX
+ 
+  C++
 
-DAX
-
-C++
-
-Java
+  Java
 
 
 ## Code 
