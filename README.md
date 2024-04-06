@@ -9,12 +9,19 @@ I'm currently working on expanding my understanding of complex coding theories a
 Below are some of the languages that are a part of my primary skillset. 
  
 HTML
+
 CSS
+
 JavaScript
+
 Python
+
 SQL
+
 DAX
+
 C++
+
 Java
 
 ## Code 
@@ -22,6 +29,7 @@ Java
 I’ve included repositories from the code I’ve worked on during my time in college.   
 
 CMSC 140 (C++) 
+
 CMSC 203 (Java) 
 
 ## How to reach me
