@@ -30,13 +30,13 @@ Java
 
 I’ve included repositories from the code I’ve worked on during my time in college.   
 
-[CMSC 140 (C++)] (https://github.com/nardi-20/CMSC140)
+[CMSC 140 (C++)](https://github.com/nardi-20/CMSC140)
 
-[CMSC 203 (Java)] (https://github.com/nardi-20/CMSC203)
+[CMSC 203 (Java)](https://github.com/nardi-20/CMSC203)
 
 
 ## How to reach me
-[Linkedin] (www.linkedin.com/in/nardos-hailemariam)
+[Linkedin](www.linkedin.com/in/nardos-hailemariam)
 
 <!--
 **nardi-20/nardi-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
