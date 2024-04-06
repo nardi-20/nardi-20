@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Nardi, and I’m studying Computer Science. I have six years' coding experience with multiple languages and compilers, and I'm always looking to learn more. 
+
+I'm currently working on expanding my understanding of complex coding theories and learning more languages. Take a look around! 
+
+## Skills 
+
+Below are some of the languages that are a part of my primary skillset. 
+ 
+HTML  
+CSS 
+JavaScript  
+Python 
+SQL 
+DAX 
+C++ 
+Java
+
+## Code 
+
+I’ve included repositories from the code I’ve worked on during my time in college.   
+
+CMSC 140 (C++) 
+CMSC 203 (Java) 
+
+## How to reach me
+Linkedin: www.linkedin.com/in/nardos-hailemariam
 
 <!--
 **nardi-20/nardi-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
