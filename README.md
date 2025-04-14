@@ -24,6 +24,7 @@ I’ve included repositories from the code I’ve worked on during my time in co
 ## Projects
 
 Here are some of the repositories I've worked on for personal projects or collaborated on 
+
 [pocketPenny](https://github.com/danieog/kakeibo)
 
 ## Let's Connect!
