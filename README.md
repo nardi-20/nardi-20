@@ -21,6 +21,10 @@ I’ve included repositories from the code I’ve worked on during my time in co
 
 [CMSC 203 (Java)](https://github.com/nardi-20/CMSC203)
 
+## Projects
+
+Here are some of the repositories I've worked on for personal projects or collaborated on 
+[pocketPenny](https://github.com/danieog/kakeibo)
 
 ## Let's Connect!
 [Linkedin](www.linkedin.com/in/nardos-hailemariam)
