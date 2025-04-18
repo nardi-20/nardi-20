@@ -13,14 +13,6 @@ Below are some of the languages that are a part of my primary skillset.
 Java |  C++  |  HTML  | CSS |  JavaScript  |  Python  |  SQL  
 
 
-## Code 
-
-I’ve included repositories from the code I’ve worked on during my time in college.   
-
-[CMSC 140 (C++)](https://github.com/nardi-20/CMSC140)
-
-[CMSC 203 (Java)](https://github.com/nardi-20/CMSC203)
-
 ## Projects
 
 Here are some of the repositories I've worked on for personal projects or collaborated on 
