@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nardi
+## Hi there 👋 I'm Nardi!
 
 I am Computer Science major and Computational Finance Minor at the University of Maryland, College Park. With over seven years of coding experience across multiple languages and platforms, I'm passionate about building innovative tech solutions and continuously expanding my skills.
 
