@@ -1,8 +1,8 @@
-### Hi 👋
+### Hi there 👋 I'm Nardi
 
-I'm Nardi, and I am Computer Science major and Computational Finance Minor at the University of Maryland, College Park. I have seven years' coding experience with multiple languages and compilers, and I'm always looking to learn more. 
+I am Computer Science major and Computational Finance Minor at the University of Maryland, College Park. With over seven years of coding experience across multiple languages and platforms, I'm passionate about building innovative tech solutions and continuously expanding my skills.
 
-I'm currently working on expanding my understanding of complex coding theories, learning more languages, and the overlap between CS and finance. Take a look around! 
+Currently, I’m diving deeper into complex programming concepts, learning new languages, and exploring the intersection of computer science and finance.
 
 
 ## Skills 
@@ -29,7 +29,7 @@ Here are some of the repositories I've worked on for personal projects or collab
 [Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)- A collaborative project for the AI4ALL Summer 2025 accelerated program
 
 ## Let's Connect!
-[Linkedin](www.linkedin.com/in/nardos-hailemariam)
+Feel free to reach out or connect with me on [Linkedin](www.linkedin.com/in/nardos-hailemariam)
 
 <!--
 **nardi-20/nardi-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
