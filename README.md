@@ -19,7 +19,7 @@ Here are some of the repositories I've worked on for personal projects or collab
 
 [pocketPenny](https://github.com/danieog/kakeibo)- A personal finance tracker and budget planner
 
-[Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)
+[Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)- A collaborative project for the AI4ALL Summer 2025 accelerated program
 
 ## Let's Connect!
 [Linkedin](www.linkedin.com/in/nardos-hailemariam)
