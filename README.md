@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Nardi
+## Hi there 👋 I'm Nardi
 
 I am Computer Science major and Computational Finance Minor at the University of Maryland, College Park. With over seven years of coding experience across multiple languages and platforms, I'm passionate about building innovative tech solutions and continuously expanding my skills.
 
 Currently, I’m diving deeper into complex programming concepts, learning new languages, and exploring the intersection of computer science and finance.
 
 
-## Skills 
+### Skills 
 
 Here are some of the core technical skills I bring to the table, drawn from hands-on experience in software development, data analytics, and cybersecurity:
 
@@ -20,7 +20,7 @@ Cybersecurity & Systems: Network Security | System Troubleshooting | Technical S
 AI & Machine Learning: Supervised Learning | Classification & Regression | Model Evaluation | Ensemble Learning | Deployment with Streamlit
 
 
-## Projects
+### Projects
 
 Here are some of the repositories I've worked on for personal projects or collaborated on 
 
@@ -28,7 +28,7 @@ Here are some of the repositories I've worked on for personal projects or collab
 
 [Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)- A collaborative project for the AI4ALL Summer 2025 accelerated program
 
-## Let's Connect!
+### Let's Connect!
 Feel free to reach out or connect with me on [Linkedin](www.linkedin.com/in/nardos-hailemariam)
 
 <!--
