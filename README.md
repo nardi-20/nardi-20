@@ -15,7 +15,7 @@ Frameworks & Libraries: React | Node.js | pandas | NumPy | scikit-learn | XGBoos
 
 Data & Analytics: Power BI | Microsoft SQL Server | Exploratory Data Analysis | Feature Engineering
 
-Cybersecurity & Systems: Network Security | System Troubleshooting | Technical Support | ISC2 CC (in progress) | CompTIA Security+ (in progress)
+Cybersecurity & Systems: Network Security | System Troubleshooting | Technical Support | ISC² CC (in progress) | CompTIA Security+ (in progress)
 
 AI & Machine Learning: Supervised Learning | Classification & Regression | Model Evaluation | Ensemble Learning | Deployment with Streamlit
 
