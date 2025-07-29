@@ -18,6 +18,7 @@ Java |  C++  |  HTML  | CSS |  JavaScript  |  Python  |  SQL
 Here are some of the repositories I've worked on for personal projects or collaborated on 
 
 [pocketPenny](https://github.com/danieog/kakeibo)
+[Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)
 
 ## Let's Connect!
 [Linkedin](www.linkedin.com/in/nardos-hailemariam)
