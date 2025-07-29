@@ -1,16 +1,23 @@
 ### Hi 👋
 
-I'm Nardi, and I’m studying Computer Science. I have six years' coding experience with multiple languages and compilers, and I'm always looking to learn more. 
+I'm Nardi, and I am Computer Science major and Computational Finance Minor at the University of Maryland, College Park. I have seven years' coding experience with multiple languages and compilers, and I'm always looking to learn more. 
 
-I'm currently working on expanding my understanding of complex coding theories and learning more languages. Take a look around! 
+I'm currently working on expanding my understanding of complex coding theories, learning more languages, and the overlap between CS and finance. Take a look around! 
 
 
 ## Skills 
 
-Below are some of the languages that are a part of my primary skillset. 
+Here are some of the core technical skills I bring to the table, drawn from hands-on experience in software development, data analytics, and cybersecurity:
 
- 
-Java |  C++  |  HTML  | CSS |  JavaScript  |  Python  |  SQL  
+Languages & Tools: Python | Java | C++ | JavaScript | HTML | CSS | SQL | Swift
+
+Frameworks & Libraries: React | Node.js | pandas | NumPy | scikit-learn | XGBoost | ta | Streamlit
+
+Data & Analytics: Power BI | Microsoft SQL Server | Exploratory Data Analysis | Feature Engineering
+
+Cybersecurity & Systems: Network Security | System Troubleshooting | Technical Support | ISC2 CC (in progress) | CompTIA Security+ (in progress)
+
+AI & Machine Learning: Supervised Learning | Classification & Regression | Model Evaluation | Ensemble Learning | Deployment with Streamlit
 
 
 ## Projects
