@@ -24,9 +24,11 @@ AI & Machine Learning: Supervised Learning | Classification & Regression | Model
 
 Here are some of the repositories I've worked on for personal projects or collaborated on 
 
+[Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)- A collaborative project for the AI4ALL Summer 2025 accelerated program
+
 [pocketPenny](https://github.com/danieog/kakeibo)- A personal finance tracker and budget planner
 
-[Stock Analysis and Investment Prediction](https://github.com/nardi-20/AI4ALL-Project)- A collaborative project for the AI4ALL Summer 2025 accelerated program
+[justABooAway](https://github.com/nardi-20/justABooAway)- A Chrome extension to help facilitate connections across the world
 
 ### Let's Connect!
 Feel free to reach out or connect with me on [Linkedin](www.linkedin.com/in/nardos-hailemariam)
