@@ -28,7 +28,7 @@ Here are some of the repositories I've worked on for personal projects or collab
 
 [pocketPenny](https://github.com/danieog/kakeibo)- A personal finance tracker and budget planner
 
-[justABooAway](https://github.com/nardi-20/justABooAway)- A Chrome extension to help facilitate connections across the world
+[ghostance](https://github.com/nardi-20/ghostance)- A Chrome extension to help facilitate connections across the world
 
 ### Let's Connect!
 Feel free to reach out or connect with me on [Linkedin](www.linkedin.com/in/nardos-hailemariam)
